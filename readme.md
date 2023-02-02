@@ -10,4 +10,4 @@ The left corner of a production rule is the first symbol of the right-hand side.
 
 The left-corner parse is performed using a classical backtracking search. States are expanded then searched through depth-first, backtracking when necessary.
 
-Based on grammar from Jurafsky and Martin Ch. 13 - recursive rules removed
+Based on grammar from Jurafsky and Martin Ch. 17 - recursive rules removed
